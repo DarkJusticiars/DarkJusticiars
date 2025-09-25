@@ -36,7 +36,7 @@
 
 <p align="center">
   ⭐️ "Do, or do not. There is no try." 
-  -Master Yoda 
+  -Master Yoda ⭐️
 </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/5930b586bacaa2ca3675d8a1304345bd/f6dd5dbbb8bf342a-15/s540x810/85cbd5ab5b9e4c643810ec826221645b1eedc847.gif" width="600" alt="Coding gif">
