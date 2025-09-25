@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Contact info
-- 📧 Email: isamar.garcia@uprm.edu
+- 📧 Email: isamar.garcia@upr.edu
   
 ---
 
