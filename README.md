@@ -18,6 +18,7 @@
 ### 🌟 Fun Facts
 - 🔭 I’m very passionate about space and astronomy!
 - 🎮 I also enjoy experimenting with **Lua scripting** for games
+- 🌙 I love drawing, watching tv, and playing video games
   
 ---
 
