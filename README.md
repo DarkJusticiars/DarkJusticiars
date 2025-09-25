@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! My name is Isamar :)
 
-<!--
-**DarkJusticiars/DarkJusticiars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 3rd year Software Engineering Student at University of Puerto Rico, Mayaguez campus
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+---
+### 🌐 Languages
+- 🐍 Python  
+- ☕ Java  
+- ➕➕ C++  
+- 🐉 Lua  
+
+### ⚡ Tools & Environments
+- 📝 **VS Code** (main IDE)  
+- 🐧 Linux & 🪟 Windows  
+- 📦 Git & GitHub for version control
+
+### 🎓 Relevant coursework
+-Advanced Programming
+-Fundamentals of Computing
+-Data Structures and Algorithms
+
+---
+
+## 🌟 Fun Facts
+- 🔭 I’m very passionate about space and astronomy!
+- 🎮 I also enjoy experimenting with **Lua scripting** for games  
+
+---
+
+## 📫 Contact info
+- 📧 Email: isamar.garcia@uprm.edu
+---
+
+⭐️ *"Do, or do not. There is no try."*  
