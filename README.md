@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
----
+
 ### 🌐 Languages
 - 🐍 Python  
 - ☕ Java  
@@ -18,9 +18,9 @@
 - 📦 Git & GitHub for version control
 
 ### 🎓 Relevant coursework
--Advanced Programming
--Fundamentals of Computing
--Data Structures and Algorithms
+-  Advanced Programming
+-  Fundamentals of Computing
+-  Data Structures and Algorithms
 
 ---
 
@@ -29,7 +29,6 @@
 - 🎮 I also enjoy experimenting with **Lua scripting** for games  
 
 ---
-
 ## 📫 Contact info
 - 📧 Email: isamar.garcia@uprm.edu
 ---
