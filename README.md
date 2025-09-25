@@ -1,37 +1,43 @@
-# 👋 Hello! My name is Isamar :)
+### 👋 Hello! My name is Isamar :) <img src="https://www.uprm.edu/wdt/resources/seal-rum-uprm-1280x1280px.png" align="right" width="80" alt="UPRM Logo">
 
-💻 3rd year Software Engineering Student at University of Puerto Rico, Mayaguez campus
+💻 I am a 3rd year Software Engineering Student at University of Puerto Rico, Mayaguez campus! 
 
----
 
 ## 🚀 About Me
 
 ### 🌐 Languages
-- 🐍 Python  
-- ☕ Java  
-- ➕➕ C++  
-- 🐉 Lua  
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,lua)](https://skillicons.dev)
+
 ---
 
 ### ⚡ Tools & Environments
-- 📝 **VS Code** (main IDE)  
-- 🐧 Linux & 🪟 Windows  
-- 📦 Git & GitHub for version control
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
 ---
 
-## 🌟 Fun Facts
+### 🌟 Fun Facts
 - 🔭 I’m very passionate about space and astronomy!
 - 🎮 I also enjoy experimenting with **Lua scripting** for games
+  
 ---
 
 ### 🎓 Relevant coursework
 -  Advanced Programming
 -  Fundamentals of Computing
 -  Data Structures and Algorithms
+  
 ---
 
-## 📫 Contact info
+### 📫 Contact info
 - 📧 Email: isamar.garcia@uprm.edu
+  
 ---
 
-⭐️ *"Do, or do not. There is no try."* -Master Yoda
+
+<p align="center">
+  ⭐️ "Do, or do not. There is no try." 
+  -Master Yoda 
+</p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/5930b586bacaa2ca3675d8a1304345bd/f6dd5dbbb8bf342a-15/s540x810/85cbd5ab5b9e4c643810ec826221645b1eedc847.gif" width="600" alt="Coding gif">
+</p>
