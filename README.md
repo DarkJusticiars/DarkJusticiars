@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 ### 🌐 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,lua,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,lua,js,html)](https://skillicons.dev)
 
 ---
 
