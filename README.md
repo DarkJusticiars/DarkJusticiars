@@ -3,33 +3,33 @@
 💻 I am a 3rd year Software Engineering Student at University of Puerto Rico, Mayaguez campus! 
 
 
-## 🚀 About Me
+## 🚀 About Me 
 
-### 🌐 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,lua,js,html)](https://skillicons.dev)
+### 🌐 Languages 
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html)](https://skillicons.dev)
 
 ---
 
-### ⚡ Tools & Environments
+### ⚡ Tools & Environments 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,windows,linux)](https://skillicons.dev)
 
 ---
 
-### 🌟 Fun Facts
+### 🌟 Fun Facts 
 - 🔭 I’m very passionate about space and astronomy!
 - 🎮 I also enjoy experimenting with **Lua scripting** for games
 - 🌙 I love drawing, watching tv, and playing video games
   
 ---
 
-### 🎓 Relevant coursework
+### 🎓 Relevant coursework 
 -  Advanced Programming
 -  Fundamentals of Computing
 -  Data Structures and Algorithms
   
 ---
 
-### 📫 Contact info
+### 📫 Contact info 
 - 📧 Email: isamar.garcia@upr.edu
   
 ---
