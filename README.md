@@ -11,7 +11,7 @@
 ---
 
 ### ⚡ Tools & Environments 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,windows,linux,eclipse,arduino)](https://skillicons.dev)
 
 ---
 
@@ -22,6 +22,19 @@
 - ✨ I'm interested in both low-level and high-level languages, and hardware.
 - 🛸 My role models and inspiration are the women who worked on NASA missions with their programming skills, such as Dorothy Vaughan and Margaret Hamilton.
   
+---
+
+# Projects I've worked on
+- 2d Minigame that uses only JavaScript and HTML
+- NASA Moonbuggy Engineering Team Task Tool Arduino Code
+### Class projects
+- Minecraft Mod Dependency Tool / Visualizer (INSO 4101)
+- Among Us themed Simon minigame with OpenFrameworks (CIIC 4010)
+- Supercell Invaders arcade style game (CIIC 4010)
+- Recursive Fractal visualizer (CIIC 4010)
+- LOD Marching Cubes visualizer (CIIC 4020)
+- Online Store Database (CIIC 4020)
+
 ---
 
 ### 🎓 Relevant coursework 
