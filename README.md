@@ -16,11 +16,8 @@
 ---
 
 ### 🌟 Fun Facts 
-- 🔭 I’m very passionate about space and astronomy!
-- 🎮 I also enjoy experimenting with **Lua scripting** for games
-- 🌙 I love drawing, watching tv, and playing video games
-- ✨ I'm interested in both low-level and high-level languages, and hardware.
-- 🛸 My role models and inspiration are the women who worked on NASA missions with their programming skills, such as Dorothy Vaughan and Margaret Hamilton.
+- I’m very passionate about space and astronomy! I love drawing, watching tv, and playing video games. I also enjoy experimenting with **Lua scripting** for games 
+- I'm interested in both low-level and high-level languages, and hardware. My role models and inspiration are the women who worked on NASA missions with their programming skills, such as Dorothy Vaughan and Margaret Hamilton.
   
 ---
 
