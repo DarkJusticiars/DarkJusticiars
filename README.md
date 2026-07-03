@@ -43,8 +43,6 @@
   
 ---
 
-### 📫 Contact info 
-- 📧 Email: isamar.garcia@upr.edu
   
 ---
 <p align="center">
