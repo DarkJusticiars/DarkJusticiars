@@ -6,7 +6,7 @@
 ## 🚀 About Me 
 
 ### 🌐 Languages 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css,postgresql)](https://skillicons.dev)
 
 ---
 
@@ -23,7 +23,7 @@
 
 # Projects I've worked on
 - 2d Minigame that uses only JavaScript and HTML
-- NASA Moonbuggy Engineering Team Task Tool Arduino Code
+- NASA Moonbuggy Engineering Team 2025 Task Tool Arduino Code & 2026 Task Tool Raspberry pi code
 ### Class projects
 - Minecraft Mod Dependency Tool / Visualizer (INSO 4101)
 - Among Us themed Simon minigame with OpenFrameworks (CIIC 4010)
@@ -40,6 +40,8 @@
 -  Data Structures and Algorithms
 -  Intro to Software Engineering
 -  Algorithm Analysis and Design
+-  Programming Languages
+-  Software Design
   
 ---
 
