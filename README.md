@@ -1,12 +1,12 @@
 ### 👋 Hello! My name is Isamar :) <img src="https://www.uprm.edu/wdt/resources/seal-rum-uprm-1280x1280px.png" align="right" width="80" alt="UPRM Logo">
 
-💻 I am a 3rd year Software Engineering Student at University of Puerto Rico, Mayaguez campus! 
+💻 I am a 4th year Software Engineering Student at University of Puerto Rico, Mayaguez campus! 
 
 
 ## 🚀 About Me 
 
 ### 🌐 Languages 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css,sql)](https://skillicons.dev)
 
 ---
 
