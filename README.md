@@ -6,12 +6,12 @@
 ## 🚀 About Me 
 
 ### 🌐 Languages 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,lua,js,html,css,postgresql,nim)](https://skillicons.dev)
 
 ---
 
 ### ⚡ Tools & Environments 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,windows,linux,eclipse,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,github,windows,linux,eclipse,arduino,raspberrypi)](https://skillicons.dev)
 
 ---
 
