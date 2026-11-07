@@ -22,12 +22,16 @@
 ---
 
 # Projects I've worked on
+
+### Personal:
+
 - 2d Minigame that uses only JavaScript and HTML
 - NASA HERC 2025 Task Tool Code
 - NASA HERC 2026 Task Tool Code
 - DField and PPlane Tools Rewritten in Python
   
-### Class projects
+### Class projects:
+
 - Minecraft Mod Dependency Tool / Visualizer (INSO 4101)
 - Among Us themed Simon minigame with OpenFrameworks (CIIC 4010)
 - Supercell Invaders arcade style game (CIIC 4010)
