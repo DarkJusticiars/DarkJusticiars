@@ -26,7 +26,7 @@
 - NASA HERC 2025 Task Tool Code
 - NASA HERC 2026 Task Tool Code
 - DField and PPlane Tools Rewritten in Python
-- 
+  
 ### Class projects
 - Minecraft Mod Dependency Tool / Visualizer (INSO 4101)
 - Among Us themed Simon minigame with OpenFrameworks (CIIC 4010)
@@ -45,6 +45,8 @@
 -  Algorithm Analysis and Design
 -  Programming Languages
 -  Software Design
+-  Circuit Analysis I
+-  Linear Algebra and Differential Equations
   
 ---
 
